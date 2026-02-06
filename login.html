@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>UPSM — Accès sécurisé</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    body { display: grid; place-items: center; min-height: 100vh; }
+    .login {
+      width: min(440px, 90vw);
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 34px;
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+    .login-logo {
+      width: 120px;
+      height: auto;
+      margin-bottom: 16px;
+      border-radius: 10px;
+    }
+    .login h1 { margin-top: 0; font-size: 1.7rem; }
+    .login input {
+      width: 100%;
+      padding: 12px 14px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      margin: 12px 0 18px;
+      font-size: 1rem;
+    }
+    .login button {
+      width: 100%;
+      padding: 12px 16px;
+      border-radius: 999px;
+      border: none;
+      background: var(--accent);
+      color: white;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .hint { color: var(--muted); font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <div class="login">
+    <img src="logo%20Synkro%20logis.jpeg" alt="Synkro Logis" class="login-logo" />
+    <h1>Accès sécurisé</h1>
+    <p class="hint">Veuillez saisir le mot de passe communiqué.</p>
+    <input type="password" id="password" placeholder="Mot de passe" />
+    <button id="submit">Accéder à la présentation</button>
+    <p class="hint" id="error" style="color:#b91c1c; display:none;">Mot de passe incorrect.</p>
+  </div>
+
+  <script>
+    const PASSWORD = 'UPSM2026';
+    const input = document.getElementById('password');
+    const error = document.getElementById('error');
+
+    function tryLogin() {
+      if (input.value === PASSWORD) {
+        sessionStorage.setItem('upsm_access', 'ok');
+        window.location.replace('index.html');
+      } else {
+        error.style.display = 'block';
+      }
+    }
+
+    document.getElementById('submit').addEventListener('click', tryLogin);
+    input.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        tryLogin();
+      }
+    });
+  </script>
+</body>
+</html>
