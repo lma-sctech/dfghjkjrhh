@@ -1,0 +1,202 @@
+PROPOSITION D’ACCOMPAGNEMENT
+Performance logistique & Conseil digital
+Présentation d’UPSM
+UPSM est une entité issue d’un groupe opérant dans les services de packaging depuis 1995, capitalisant sur une expertise éprouvée en solutions d’emballage et en gestion d’actifs logistiques. Son modèle repose sur l’externalisation complète de l’approvisionnement, de la gestion et de la maintenance des cageots plastiques utilisés par ses clients et par les fournisseurs de ces derniers, pour les opérations de stockage, de manutention et d’étalage.
+Concrètement, le client mandate ses fournisseurs pour s’approvisionner en cageots auprès d’UPSM. Ces derniers sont mis à disposition dans le cadre d’un contrat de location liant UPSM aux fournisseurs, qui deviennent ainsi ses clients directs. UPSM assure alors l’intégralité du cycle de vie des cageots : mise à disposition, suivi des flux, récupération, maintenance, et réintégration dans le circuit, conformément aux procédures définies par le client donneur d’ordre. Cette gestion s’appuie sur des technologies avancées garantissant traçabilité, fiabilité des données et pilotage opérationnel.
+Ce partenariat permet aux clients d’UPSM de bénéficier d’un contrôle end-to-end de leur chaîne logistique — de la production au transport, en passant par le stockage, l’emballage et la maintenance des supports — tout en transférant la complexité opérationnelle à un acteur spécialisé. Les fournisseurs réalisent, quant à eux, des économies significatives liées à l’acquisition et à la gestion des cageots. Enfin, le modèle s’inscrit dans une logique d’économie circulaire en substituant les emballages carton à usage unique par une solution réutilisable, durable et à moindre impact environnemental.
+
+________________________________________
+1. Note de cadrage
+La présente proposition vise à accompagner la structuration, l’optimisation et le pilotage des opérations logistiques liées à la gestion d’agrès réutilisables destinés à la grande distribution.
+Dans un environnement multi-acteurs, la performance repose à la fois sur la maîtrise des flux physiques et sur la capacité à structurer et exploiter les informations produites par les opérations. L’accompagnement proposé s’inscrit dans une logique progressive, permettant de sécuriser d’abord les fondamentaux (Performance logistique), puis de définir et déployer une trajectoire de transformation digitale cohérente (Conseil digital).
+________________________________________
+2. Contexte et enjeux
+L’activité repose sur la gestion des agrès (mise à disposition de cageots plastiques réutilisables auprès de fournisseurs de fruits et légumes), destinés à un grand distributeur. Cette organisation implique plusieurs parties prenantes (fournisseurs, transporteurs, distributeur) et génère des flux physiques et informationnels continus : bons de livraison, scans transporteurs, données de réception, etc.
+Les enjeux principaux portent sur :
+•	la maîtrise des mouvements de cageots,
+•	la réduction des pertes, écarts et litiges,
+•	la fiabilisation des inventaires,
+•	la transparence et le partage d’informations entre acteurs,
+•	la préparation à l’automatisation des inventaires et de la facturation,
+sans investissement matériel lourd.
+________________________________________
+3. Objectifs & périmètre
+Objectifs
+•	Améliorer durablement la performance des opérations logistiques.
+•	Sécuriser et standardiser les processus de gestion des agrès.
+•	Mettre en place un pilotage structuré fondé sur des indicateurs fiables.
+•	Quantifier les gains opérationnels et économiques.
+•	Définir une trajectoire de transformation digitale claire et priorisée.
+Périmètre
+•	Performance logistique : diagnostic, optimisation des processus et Business Case.
+•	Conseil digital : feuille de route digitale, structuration et mise en œuvre des projets digitaux.
+________________________________________
+4. Approche méthodologique
+L’approche est progressive, structurée et conditionnelle :
+•	Chaque phase produit des livrables décisionnels.
+•	Le passage à la phase suivante est conditionné à la validation des livrables de la phase précédente.
+•	Les travaux s’appuient prioritairement sur les flux et données existants.
+________________________________________
+5. Description détaillée de l’accompagnement
+VOLET 1 – PERFORMANCE logistique
+Phase 1.1 – Diagnostic et évaluation de la performance des opérations
+Objectif
+Établir un état des lieux factuel et partagé des opérations logistiques et des flux de cageots.
+Travaux réalisés
+•	Cartographie des flux physiques end-to-end.
+•	Analyse des processus clés (entrées/sorties, retours, inventaires, litiges).
+•	Analyse des flux d’information existants.
+•	Identification des causes racines des écarts et pertes.
+Livrables
+•	Diagnostic de performance opérationnelle.
+•	Cartographie des flux physiques et informationnels.
+•	Synthèse des leviers d’amélioration.
+________________________________________
+Phase 1.2 – Optimisation et réingénierie des opérations / processus
+Objectif
+Optimiser et sécuriser les processus afin d’améliorer la traçabilité et la performance globale.
+Travaux réalisés
+•	Définition des processus cibles (TO-BE).
+•	Clarification des rôles et responsabilités.
+•	Formalisation des règles de gestion des écarts et litiges.
+•	Fiabilisation des inventaires.
+•	Valorisation des données existantes.
+Livrables
+•	Processus cibles documentés.
+•	Schémas de flux optimisés.
+•	Règles de gestion opérationnelles.
+________________________________________
+Phase 1.3 – Business Case & gains attendus
+Objectif
+Quantifier les gains et sécuriser la prise de décision.
+Travaux réalisés
+•	Quantification des pertes, litiges et immobilisations.
+•	Évaluation des gains potentiels liés à l’optimisation.
+•	Projection des impacts à court et moyen terme.
+Livrables
+•	Business Case chiffré.
+•	Scénarios de gains.
+•	Recommandations de priorisation.
+________________________________________
+VOLET 2 – Conseil digital
+Phase 2.1 – Mesure de la maturité digitale & feuille de route
+•	Évaluation de la maturité digitale.
+•	Élaboration de la feuille de route de digitalisation.
+Livrables
+•	Diagnostic de maturité digitale.
+•	Feuille de route validée.
+________________________________________
+Phase 2.2 – Identification et montage des projets digitaux
+•	Identification des projets digitaux à lancer.
+•	Définition des périmètres et priorisation.
+Livrables
+•	Portefeuille de projets digitaux.
+•	Fiches projets détaillées.
+________________________________________
+Phase 2.3 – Étude de besoin et analyse fonctionnelle
+•	Analyse détaillée des besoins métiers.
+•	Rédaction des spécifications fonctionnelles.
+Livrables
+•	Cahier des charges fonctionnel.
+•	Critères de sélection des solutions.
+________________________________________
+Phase 2.4 – Définition de la stratégie de transformation digitale
+•	Définition de la stratégie cible.
+•	Organisation de la gouvernance digitale.
+Livrables
+•	Stratégie de transformation digitale formalisée.
+•	Modèle cible digital.
+________________________________________
+Phase 2.5 – Accompagnement à la mise en place des outils numériques
+•	Accompagnement au déploiement des outils.
+•	Appui à l’adoption par les équipes.
+Livrables
+•	Outils opérationnels.
+•	Équipes accompagnées.
+________________________________________
+6. Organisation & gouvernance
+•	Gouvernance projet structurée autour de comités de suivi.
+•	Jalons de validation à chaque phase.
+•	Implication des équipes métiers.
+•	Coordination avec les parties prenantes internes et externes.
+________________________________________
+7. Valeur & résultats attendus
+À l’issue de l’accompagnement, l’organisation disposera :
+•	d’une maîtrise renforcée des flux de cageots,
+•	d’une réduction mesurable des pertes et litiges,
+•	d’inventaires fiabilisés et pilotables,
+•	d’une fiabilisation de l’écosystème et consolidation du partenariat, 
+•	d’un socle opérationnel et data robuste,
+•	d’une trajectoire digitale claire et sécurisée.
+________________________________________
+8. Modalités de financement (Programme MarocPME)
+Le projet décrit ci-dessus peut être éligible à des dispositifs d’accompagnement et de financement à hauteur de 65% du cout d’accompagnement jusqu’à la mise en place de la solution cloud (abonnement de 2 ans).
+Cette prise en charge est soumise aux critères d’éligibilité, à l’instruction du dossier et à l’acceptation formelle par l’organisme concerné, indépendamment de la présente proposition. L’accompagnement pourra être adapté, le cas échéant, aux exigences administratives et formelles du dispositif retenu.
+________________________________________
+Présentation du cabinet
+Nous sommes un cabinet de conseil spécialisé en Supply Chain et Transformation Digitale.
+Nous accompagnons des entreprises de toutes tailles dans :
+•	l’optimisation de leurs opérations,
+•	la digitalisation de leurs processus,
+•	la transformation stratégique de leur Supply Chain,
+•	le redressement de projets SC.
+________________________________________
+Périmètre d’intervention
+Nos services couvrent l’ensemble du cycle Supply Chain :
+•	Stratégie et gouvernance
+•	Conception et optimisation des réseaux logistiques
+•	Optimisation des opérations
+•	Planification et prévision
+•	Déploiement de solutions digitales et automatisée________________________________________
+Valeur apportée pour nos clients
+Nous aidons nos clients à :
+•	Améliorer la performance opérationnelle et la productivité multi-sites
+•	Réduire les coûts tout en garantissant un service client optimal
+•	Déployer des solutions digitales et automatisées pour moderniser leurs processus
+•	Piloter et redresser des projets Supply Chain complexes ou en difficulté
+•	Accompagner le changement et acculturer les équipes aux nouvelles pratiques et outils
+________________________________________
+Grâce à une combinaison d’expertise stratégique, de maîtrise opérationnelle et de savoir-faire digital, Synkrologis transforme la Supply Chain en un levier de compétitivité, d’efficacité et de croissance durable.
+ 
+________________________________________
+Proposition financière – Synthèse par volet et par phase
+Hypothèses générales
+•	Facturation en honoraires forfaitaires par phase
+•	Démarrage de chaque phase conditionné à la validation des livrables de la phase précédente
+•	Hors investissements matériels, logiciels et frais tiers
+•	Modalités de paiement précisables contractuellement (mensuel ou par jalon)
+________________________________________
+Tableau financier détaillé
+VOLET 1 – Performance logistique
+Total : 10 JH CP / 20 JH CS – 200 000 MAD HT
+Phase	Intitulé	CP (JH)	CS (JH)	Calcul	Montant HT (MAD)
+1.1	Diagnostic & évaluation de la performance	3	8	(3×8 000) + (8×6 000)	72 000
+1.2	Optimisation & réingénierie des processus	4	8	(4×8 000) + (8×6 000)	80 000
+1.3	Business Case & gains attendus	3	4	(3×8 000) + (4×6 000)	48 000
+Sous-total Volet 1		10	20		200 000 MAD HT
+VOLET 2 – Conseil digital
+Total : 13 JH CP / 16 JH CS – 200 000 MAD HT
+Phase	Intitulé	CP (JH)	CS (JH)	Calcul	Montant HT (MAD)
+2.1	Maturité digitale & feuille de route	3	3	(3×8 000) + (3×6 000)	42 000
+2.2	Identification & montage des projets digitaux	2	2	(2×8 000) + (2×6 000)	28 000
+2.3	Étude de besoin & analyse fonctionnelle	4	5	(4×8 000) + (5×6 000)	62 000
+2.4	Stratégie de transformation digitale	2	2	(2×8 000) + (2×6 000)	28 000
+2.5	Accompagnement au déploiement des outils	2	4	(2×8 000) + (4×6 000)	40 000
+Sous-total Volet 2		13	16		200 000 MAD HT
+
+________________________________________
+Lecture financière & flexibilité
+•	Chaque phase est contractualisable indépendamment
+•	Le Volet 2 peut être engagé uniquement après validation du Business Case
+•	Le périmètre peut être ajusté selon :
+o	priorités métier,
+o	contraintes budgétaires,
+o	dispositifs de financement mobilisés.
+________________________________________
+Modalités de financement (rappel)
+Cette mission peut être éligible à des dispositifs d’accompagnement et de financement, intervenant en tant qu’accompagnateur potentiel, sous réserve :
+•	d’éligibilité du projet,
+•	d’instruction du dossier,
+•	d’acceptation formelle par l’organisme concerné.
+________________________________________
+
